@@ -204,7 +204,7 @@ header h2 {
 
   .chatbot {
     right: 15px;
-    bottom: 0;
+    bottom: 10px;
     height: 100%;
     border-radius: 0;
     width: 100%;
